@@ -1,5 +1,5 @@
 # crypto-research-platform
-1
+
 ## Table of Contents
 - [Overview](#overview)
 - [Architecture](#architecture)
